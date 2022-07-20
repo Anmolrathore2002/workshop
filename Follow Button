@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>TWITTER FOLLOW</title>
+    <!--CSS-->
+    <style>
+        h1 {
+            color: aliceblue;
+            background-color: #187eb5;
+            width: 150px;
+            border-radius: 25px;
+            border-color: blue;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <H1>FOLLOW</H1>
+</body>
+</html>
